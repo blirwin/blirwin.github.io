@@ -49,3 +49,10 @@ p {
     text-decoration: none;
     color: #0077b5;
 }
+
+.icon-img {
+    width: 32px;
+    height: 32px;
+    margin: 0 10px;
+    vertical-align: middle;
+}
